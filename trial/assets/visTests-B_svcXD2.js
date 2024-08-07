@@ -1,0 +1,1 @@
+import{_ as a}from"./VisPandasTable-AE9OtoGh.js";import{u as s,r as e,o as t,c as o,e as p}from"./index-C_IXPN4D.js";import"./VisPathSelect-R34EtS5p.js";const r={class:"box"},u={__name:"visTests",setup(m){return s(),e({name:"xx",path:"ppxx"}),e({name:"xx",path:"ppyy"}),e(["Alpha","Beta","Rome","Gamma"]),(c,_)=>(t(),o("div",r,[p(a)]))}};export{u as default};
